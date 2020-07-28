@@ -1,9 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "ที่มาของชื่อบึงพระ"
 ---
-hello everyone
----
-Use the left arrow to go back!
 
-bye!
