@@ -17,8 +17,8 @@ plugins:
   - jemoji
 
 ## personalize your slide show
-title:       github-slideshow
-author:      GitHubTeacher
+title:       ประวัติตำบลบึงพระ
+author:      scratchusernamemrtbts
 description: A fun activity for learning Git and GitHub.
 
 sass:
